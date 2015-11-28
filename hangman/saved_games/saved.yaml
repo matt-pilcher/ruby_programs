@@ -1,0 +1,9 @@
+--- !ruby/object:Game
+secret_word: chardonnay
+guesses:
+- a
+- r
+trial: " _  _ ar _  _  _  _ a _ "
+attempts: 7
+y: 0
+selection: 1
